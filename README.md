@@ -15,7 +15,7 @@ Performing network topology changes while contributing to network design.
   - Monitoring and linux administration.
 
 **NOC Technician** @ [Adamo Telecom](https://adamo.es) _(Jun 2019 - Jun 2021)_ <br>
-Resolving core network incidents and providing enterprise customer support at Adamo's Network Operation Center (NOC).
+Resolving core network incidents and providing enterprise and level 3 customer support at Adamo's Network Operation Center (NOC).
   - Managing incidents to mantain the agreed SLA's.
   - Guiding field technicians to troubleshoot and find the root cause of issues in core equipment (SFP's, cabling).
   - Handling issue tickets from our enterprise customers.
