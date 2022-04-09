@@ -47,10 +47,10 @@ The result of this project is an implementation of quality of service policies a
 
 ## 📌 Projects 
 
-**DWDM Implementation** @ [Adamo Telecom](https://www.redi-school.org/) _(Feb 2017 - Present)_<br>
+**DWDM Implementation** @ [Adamo Telecom](https://www.redi-school.org/) _(Jun 2021 - Present)_<br>
 Migration to a DWDM based transmission across the network to increase capacity and redundancy.
 
-**Zabbix Implementation** @ [Adamo Telecom](https://www.redi-school.org/) _(Feb 2017 - Aug 2021)_<br>
+**Zabbix Implementation** @ [Adamo Telecom](https://www.redi-school.org/) _(Aug 2020 - Apr 2021)_<br>
 Design and migration to an SNMP powered monitoring system for Adamo Telecom's network. This involved the creation of:
   - Items to monitor (autodiscovery)
   - Alarm triggers
