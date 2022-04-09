@@ -60,7 +60,7 @@ Design and migration to an SNMP powered monitoring system for Adamo Telecom's ne
   
 ## 📻 Volunteering
 
-**Sysadmin** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2010 - Present)_ <br>
+**Sysadmin** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2012 - Present)_ <br>
 Systems and broadcast engineer.
   - Network manteinance
   - Servers administration
