@@ -1,4 +1,4 @@
-## Marc Casellas
+# Marc Casellas
 
 _Computer engineer based in Barcelona, Spain_ <br>
 
