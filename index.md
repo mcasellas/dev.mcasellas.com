@@ -19,7 +19,7 @@ Performing network topology changes while contributing to network design.
 **NOC Technician** @ [Adamo Telecom](https://adamo.es) _(Jun 2019 - Jun 2021)_ <br>
 Resolving core network incidents and providing enterprise customer support at Adamo's Network Operation Center (NOC).
   - Managing incidents to mantain the agreed SLA's.
-  - Helping field technicians to troubleshoot core equipment (SFP's, cabling)
+  - Guiding field technicians to troubleshoot and find the root cause of issues in core equipment (SFP's, cabling).
   - Handling issue tickets from our enterprise customers.
   - **_Protocols used:_** OSPF, MPLS, BGP, DHCP, DNS, SIP, RTP.
   - **_Devices used:_** Huawei, Nokia, ZTE, Fiberhome, Ekinops, Brocade, FS, Ceragon, Mikrotik.
