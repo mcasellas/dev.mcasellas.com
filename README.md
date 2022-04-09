@@ -20,7 +20,7 @@ Resolving core network incidents and providing enterprise customer support at Ad
   - Guiding field technicians to troubleshoot and find the root cause of issues in core equipment (SFP's, cabling).
   - Handling issue tickets from our enterprise customers.
 
-> #### Tech experience
+> ### Tech experience
 > **_Protocols:_** OSPF, MPLS, BGP, DHCP, DNS, SIP, RTP.<br>
 > **_Technologies:_** GPON, DWDM, Jinja, Git, Docker.<br>
 > **_Languages:_** Python, Javascript, C++, PHP, HTML, SQL.<br>
