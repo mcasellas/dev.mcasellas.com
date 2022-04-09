@@ -44,6 +44,10 @@ The result of this project is an implementation of quality of service policies a
 
 ## 📌 Projects 
 
+**DWDM Implementation** @ [Adamo Telecom](https://www.redi-school.org/) _(Feb 2017 - Present)_<br>
+Migration to a DWDM based transmission across the network to increase capacity and redundancy.
+<br><br>
+
 **Zabbix Implementation** @ [Adamo Telecom](https://www.redi-school.org/) _(Feb 2017 - Aug 2021)_<br>
 Design and migration to an SNMP powered monitoring system for Adamo Telecom's network. This involved the creation of:
   - Items to monitor (autodiscovery)
@@ -51,14 +55,10 @@ Design and migration to an SNMP powered monitoring system for Adamo Telecom's ne
   - Trigger dependencies
   - Templates for each kind of network and power device.
 <br><br>
-
-**DWDM Implementation** @ [Adamo Telecom](https://www.redi-school.org/) _(Feb 2017 - Present)_<br>
-Migration to a DWDM based transmission across the network.
-<br><br>
-
+  
 ## 📻 Volunteering
 
-**Sysadmin and radio speaker** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2010 - Present)_ <br>
+**Sysadmin** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2010 - Present)_ <br>
 Systems and broadcast engineer.
   - Network manteinance
   - Servers administration
@@ -67,8 +67,8 @@ Systems and broadcast engineer.
   - Automation: Development of an automatic and distributed contribution system for remote users (schedule automation, file upload...).
 <br><br>
 
-**Radio Speaker**<br>
-Cohost of the magazine & impro program Ona Jove.<br>
+**Radio Speaker** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2010 - Present)_ <br>
+Cohost of the magazine & impro show Ona Jove.<br>
 🎤 [Check out Ona Jove](https://radiovoltrega.com/programes#Dimarts).
 <br><br>
 
