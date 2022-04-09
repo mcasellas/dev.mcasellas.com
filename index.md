@@ -9,9 +9,9 @@ _Computer engineer based in Barcelona, Spain_ <br>
 **Network Delivery Engineer** @ [Adamo Telecom](https://adamo.es) _(Jun 2021 - Present)_ <br>
 Performing network topology changes while contributing to network design.
   - Development of automation scripts and the design of new tools. 
-  - Deployment of new PoP's and services:
-    - Migration to a DWDM based transmission across the network.
-    - M&A integration of newly acquired networks.
+  - Deployment of new PoP's and services
+  - Migration to a DWDM based transmission across the network.
+  - M&A integration of newly acquired networks.
   - Sysadmin: Linux administration
   - **_Languages used:_** Python, Javascript, C++, PHP, HTML, SQL.
   - **_Technologies used:_** GPON, DWDM, Jinja, Git, Docker.
@@ -26,9 +26,13 @@ Resolving core network incidents and providing enterprise customer support at Ad
 
 ## 👨🏻‍🎓 Education
 
-**Degree in Computer Engineering** · Mention in Information Technologies (IT)<br>
-[Universitat Politècnica de Catalunya](https://www.upc.edu) - Barcelona, Spain _(Sep 2016 - Jan 2021)_ <br><br>
+**Degree in Computer Engineering** · Mention in IT<br>
+[Universitat Politècnica de Catalunya](https://www.upc.edu) - Barcelona, Spain _(Sep 2016 - Jan 2021)_ <br>
 A graduate specialist in Information Technology (IT) knows the necessary technologies, both hardware and software, to store, retrieve, transmit and manipulate data. This means that an IT specialist has a good technical and practical knowledge in managing the technological infrastructure which treats the information and the development of systems. An engineer of IT specializes in integrating information technologies rather than the information itself and has knowledge of hardware, operating systems, programming languages, communication protocols, distributed systems and architectures of systems.
+<br><br>
+**TFG | Implementació de QoS en un ISP** @ [UPC & Adamo Telecom](https://upcommons.upc.edu/handle/2117/344879) _(Sep 2020 - Jan 2021)_ <br>
+The result of this project is an implementation of quality of service policies able to classify the different residential data flows in queues of multiple priorities. Enabling, this way, to assure its transmission along all the critical paths. 
+
 
 ## 💬 Languages
 
@@ -39,11 +43,7 @@ A graduate specialist in Information Technology (IT) knows the necessary technol
 
 ## 📌 Projects 
 
-**TFG | Implementació de QoS en un ISP** @ [UPC & Adamo Telecom](https://upcommons.upc.edu/handle/2117/344879) _(Sep 2020 - Jan 2021)_ <br>
-The result of this project is an implementation of quality of service policies able to classify the different residential data flows in queues of multiple priorities. Enabling, this way, to assure its transmission along all the critical paths. 
-<br><br>
-
-**Zabbix Monitoring Implementation** @ [Adamo Telecom](https://www.redi-school.org/) _(Feb 2017 - Aug 2021)_<br>
+**Zabbix Implementation** @ [Adamo Telecom](https://www.redi-school.org/) _(Feb 2017 - Aug 2021)_<br>
 Design and migration to an SNMP powered monitoring system for Adamo Telecom's network. This involved the creation of:
   - Items to monitor (autodiscovery)
   - Alarm triggers
