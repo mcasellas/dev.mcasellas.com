@@ -7,8 +7,7 @@ _Computer engineer based in Barcelona, Spain_ <br>
 ## 👨🏻‍💻 Engineering Experience
 
 **Network Delivery Engineer** @ [Adamo Telecom](https://adamo.es) _(Jun 2021 - Present)_ <br>
-
-  - Performing network topology changes while contributing to network design.
+Performing network topology changes while contributing to network design.
   - Development of automation scripts and the design of new tools. 
   - Deployment of new PoP's and services:
     - Migration to a DWDM based transmission across the network.
@@ -17,9 +16,9 @@ _Computer engineer based in Barcelona, Spain_ <br>
   - **_Languages used:_** Python, Javascript, C++, PHP, HTML, SQL.
   - **_Technologies used:_** GPON, DWDM, Jinja, Git, Docker.
 
-**Network Operation Center (NOC) Technician** @ [Adamo Telecom](https://adamo.es) _(Jun 2019 - Jun 2021)_ <br>
-
-  - Resolving core network incidents according to the agreed SLA.
+**NOC Technician** @ [Adamo Telecom](https://adamo.es) _(Jun 2019 - Jun 2021)_ <br>
+Resolving core network incidents and providing enterprise customer support at Adamo's Network Operation Center (NOC).
+  - Managing incidents to mantain the agreed SLA's.
   - Helping field technicians to troubleshoot core equipment (SFP's, cabling)
   - Handling issue tickets from our enterprise customers.
   - **_Protocols used:_** OSPF, MPLS, BGP, DHCP, DNS, SIP, RTP.
@@ -27,8 +26,8 @@ _Computer engineer based in Barcelona, Spain_ <br>
 
 ## 👨🏻‍🎓 Education
 
-**Degree in Computer Engineering** Mention in Information Technologies (IT)<br>
-[Universitat Politècnica de Catalunya](https://www.upc.edu) - Barcelona, Spain _(Sep 2016 - Jan 2021)_ <br>
+**Degree in Computer Engineering** · Mention in Information Technologies (IT)<br>
+[Universitat Politècnica de Catalunya](https://www.upc.edu) - Barcelona, Spain _(Sep 2016 - Jan 2021)_ <br><br>
 A graduate specialist in Information Technology (IT) knows the necessary technologies, both hardware and software, to store, retrieve, transmit and manipulate data. This means that an IT specialist has a good technical and practical knowledge in managing the technological infrastructure which treats the information and the development of systems. An engineer of IT specializes in integrating information technologies rather than the information itself and has knowledge of hardware, operating systems, programming languages, communication protocols, distributed systems and architectures of systems.
 
 ## 💬 Languages
