@@ -58,16 +58,17 @@ Migration to a DWDM based transmission across the network.
 ## 📻 Volunteering
 
 **Sysadmin and radio speaker** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2010 - Present)_ <br>
-- Systems and broadcast engineer: 
-  - Maintaining network
+Systems and broadcast engineer: 
+  - Network manteinance
   - Servers administration
   - RF devices 
   - Cabling and soldering
-- Python automation: Automated contribution system for remote users (schedule automation, file upload...).
+  - Automation: Development of an automatic and distributed contribution system for remote users (schedule automation, file upload...).
 <br><br>
 
 **Radio Speaker**<br>
-🎤 [Check out Ona Jove](https://radiovoltrega.com/programes#Dimarts) for more information.
+Cohost of the magazine & impro program Ona Jove.
+🎤 [Check out Ona Jove](https://radiovoltrega.com/programes#Dimarts).
 <br><br>
 
 ## 🚘 Others
