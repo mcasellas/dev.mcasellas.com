@@ -43,8 +43,6 @@ The result of this project is an implementation of quality of service policies a
 | **Spanish** | Native | 
 | **English** | B2 | 
 
-<br><br>
-
 ## 📌 Projects 
 
 **DWDM Implementation** @ [Adamo Telecom](https://www.redi-school.org/) _(Feb 2017 - Present)_<br>
