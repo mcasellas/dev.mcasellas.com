@@ -65,7 +65,6 @@ Systems and broadcast engineer.
   - RF devices 
   - Cabling and soldering
   - Automation: Development of an automatic and distributed contribution system for remote users (schedule automation, file upload...).
-<br><br>
 
 **Radio Speaker** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2010 - Present)_ <br>
 Cohost of the magazine & impro show Ona Jove.<br>
