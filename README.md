@@ -11,8 +11,8 @@ Performing network topology changes while contributing to network design.
   - Development of automation scripts and the design of new tools. 
   - Migration to a DWDM based transmission across the network.
   - M&A integration of newly acquired networks.
-  - Deployment of new PoP's and services
-  - Monitoring and linux administration
+  - Deployment of new PoP's and services.
+  - Monitoring and linux administration.
 
 **NOC Technician** @ [Adamo Telecom](https://adamo.es) _(Jun 2019 - Jun 2021)_ <br>
 Resolving core network incidents and providing enterprise customer support at Adamo's Network Operation Center (NOC).
@@ -24,7 +24,9 @@ Resolving core network incidents and providing enterprise customer support at Ad
 > **_Protocols:_** OSPF, MPLS, BGP, DHCP, DNS, SIP, RTP.<br>
 > **_Technologies:_** GPON, DWDM, Jinja, Git, Docker.<br>
 > **_Languages:_** Python, Javascript, C++, PHP, HTML, SQL.<br>
-> **_Devices:_** Huawei, Nokia, ZTE, Fiberhome, Ekinops, Brocade, FS, Ceragon, Mikrotik.<br>
+> **_Devices:_** Huawei, Nokia, ZTE, Fiberhome, Ekinops, Brocade, FS, Ceragon, Mikrotik.
+
+<br>
 
 ## 👨🏻‍🎓 Education
 
@@ -60,15 +62,14 @@ Design and migration to an SNMP powered monitoring system for Adamo Telecom's ne
 
 **Sysadmin** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2012 - Present)_ <br>
 Systems and broadcast engineer.
-  - Network manteinance
-  - Servers administration
-  - RF devices 
-  - Cabling and soldering
+  - Network manteinance.
+  - Servers administration.
+  - RF devices.
+  - Cabling and soldering.
   - Automation: Development of an automatic and distributed contribution system for remote users (schedule automation, file upload...).
 
 **Radio Speaker** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2010 - Present)_ <br>
-Cohost of the magazine & impro show Ona Jove.<br>
-🎤 [Check out Ona Jove](https://radiovoltrega.com/programes#Dimarts).
+Cohost of the magazine & impro show Ona Jove. [Check it out](https://radiovoltrega.com/programes#Dimarts). <br>
 <br><br>
 
 ## 🚘 Others
