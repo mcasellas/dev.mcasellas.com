@@ -38,8 +38,9 @@ The result of this project is an implementation of quality of service policies a
 
 ## 💬 Languages
 
-| **Catalan** | Native | 
+| <!-- --> | <!-- --> | 
 |:-------------|:------------------|
+| **Catalan** | Native | 
 | **Spanish** | Native | 
 | **English** | B2 | 
 
