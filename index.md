@@ -42,6 +42,7 @@ The result of this project is an implementation of quality of service policies a
 |:-------------|:------------------|
 | **Spanish** | Native | 
 | **English** | B2 | 
+<br>
 
 ## 📌 Projects 
 
