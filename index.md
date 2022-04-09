@@ -12,12 +12,18 @@ _Computer engineer based in Barcelona, Spain_ <br>
   - Development of automation scripts and the design of new tools. 
   - Deployment of new PoP's and services:
     - Migration to a DWDM based transmission across the network.
-    - M&A integration of new networks. 
+    - M&A integration of new adquired networks.
+  - Sysadmin: Linux administration
+  - **_Languages used:_** Python, Javascript, C++, PHP, HTML, SQL.
+  - **_Technologies used:_** GPON, DWDM, Jinja, Git, Docker.
 
 **Network Operation Center (NOC) Technician** @ [Adamo Telecom](https://adamo.es) _(Jun 2019 - Jun 2021)_ <br>
 
   - Resolving core network incidents according to the agreeded SLA's.
+  - Helping field techicians to troubleshoot core equipment (SFP's, cabling)
   - Handling issue tickets from our enterprise customers.
+  - **_Protocols used:_** OSPF, MPLS, BGP, DHCP, DNS, SIP, RTP.
+  - **_Devices used:_** Huawei, Nokia, ZTE, Fiberhome, Ekinops, Brocade, FS, Ceragon, Mikrotik.
 
 ## 👨🏻‍🎓 Education
 
@@ -40,6 +46,7 @@ The result of this project is an implementation of quality of service policies a
 
 **Zabbix Monitoring Implementation** @ [Adamo Telecom](https://www.redi-school.org/) _(Feb 2017 - Aug 2021)_<br>
 Design and migration to a SNMP powered monitoring system for Adamo Telecom's network. This involved the creation of:
+  - Items to monitor (autodiscovery)
   - Alarm triggers
   - Trigger dependencies
   - Templates for each kind of network and power devices.
@@ -47,4 +54,25 @@ Design and migration to a SNMP powered monitoring system for Adamo Telecom's net
 
 **DWDM Implementation** @ [Adamo Telecom](https://www.redi-school.org/) _(Feb 2017 - Present)_<br>
 Migration to a DWDM based transmission across the network.
+<br><br>
+
+## 📻 Volunteering
+
+**Sysadmin and radio speaker** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2010 - Present)_ <br>
+- Systems and broadcast engineer: 
+  - Mantaining servers
+  - Mantaining network
+  - RF devices 
+  - Cabling and solering
+- Python automation: Automated contribution system for remote users (schedule automation, file upload...).
+<br><br>
+
+**Radio Speaker**<br>
+🎤 [Check out Ona Jove](https://radiovoltrega.com/programes#Dimarts) for more information.
+<br><br>
+
+## 🚘 Others
+
+**Drivers license**: B <br>
+**Own car**
 <br><br>
