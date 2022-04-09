@@ -31,7 +31,7 @@ Resolving core network incidents and providing enterprise customer support at Ad
 [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu) _(Sep 2016 - Jan 2021)_ <br>
 A graduate specialist in Information Technology (IT) knows the necessary technologies, both hardware and software, to store, retrieve, transmit and manipulate data. This means that an IT specialist has a good technical and practical knowledge in managing the technological infrastructure which treats the information and the development of systems. An engineer of IT specializes in integrating information technologies rather than the information itself and has knowledge of hardware, operating systems, programming languages, communication protocols, distributed systems and architectures of systems.
 
-**TFG** · Implementació de QoS en un ISP<br> 
+**TFG** · QoS implementation in an ISP<br> 
 [Universitat Politècnica de Catalunya (UPC) & Adamo Telecom](https://upcommons.upc.edu/handle/2117/344879) _(Fall 2020)_ <br>
 The result of this project is an implementation of quality of service policies able to classify the different residential data flows in queues of multiple priorities. Enabling, this way, to assure its transmission along all the critical paths. 
 <br><br>
