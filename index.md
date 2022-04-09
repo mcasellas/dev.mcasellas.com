@@ -1,6 +1,6 @@
 # Marc Casellas
 
-_Computer engineer based in Barcelona, Spain_ <br>
+_Computer engineer based in Vic (Barcelona), Spain_ <br>
 
 [Email](mailto:marccasellasmuns@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mcasellas98/) / [GitHub](https://github.com/mcasellas/)
 
