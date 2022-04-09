@@ -9,10 +9,10 @@ _Computer engineer based in Vic (Barcelona), Spain_ <br>
 **Network Delivery Engineer** @ [Adamo Telecom](https://adamo.es) _(Jun 2021 - Present)_ <br>
 Performing network topology changes while contributing to network design.
   - Development of automation scripts and the design of new tools. 
-  - Deployment of new PoP's and services
   - Migration to a DWDM based transmission across the network.
   - M&A integration of newly acquired networks.
-  - Sysadmin: Linux administration
+  - Deployment of new PoP's and services
+  - Monitoring and linux administration
   - **_Languages used:_** Python, Javascript, C++, PHP, HTML, SQL.
   - **_Technologies used:_** GPON, DWDM, Jinja, Git, Docker.
 
