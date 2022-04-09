@@ -13,17 +13,18 @@ Performing network topology changes while contributing to network design.
   - M&A integration of newly acquired networks.
   - Deployment of new PoP's and services
   - Monitoring and linux administration
-  - **_Languages used:_** Python, Javascript, C++, PHP, HTML, SQL.
-  - **_Technologies used:_** GPON, DWDM, Jinja, Git, Docker.
 
 **NOC Technician** @ [Adamo Telecom](https://adamo.es) _(Jun 2019 - Jun 2021)_ <br>
 Resolving core network incidents and providing enterprise customer support at Adamo's Network Operation Center (NOC).
   - Managing incidents to mantain the agreed SLA's.
   - Guiding field technicians to troubleshoot and find the root cause of issues in core equipment (SFP's, cabling).
   - Handling issue tickets from our enterprise customers.
-  - **_Protocols used:_** OSPF, MPLS, BGP, DHCP, DNS, SIP, RTP.
-  - **_Devices used:_** Huawei, Nokia, ZTE, Fiberhome, Ekinops, Brocade, FS, Ceragon, Mikrotik.
-<br><br>
+
+#### Tech experience
+> **_Protocols:_** OSPF, MPLS, BGP, DHCP, DNS, SIP, RTP.<br>
+> **_Technologies:_** GPON, DWDM, Jinja, Git, Docker.<br>
+> **_Languages:_** Python, Javascript, C++, PHP, HTML, SQL.<br>
+> **_Devices:_** Huawei, Nokia, ZTE, Fiberhome, Ekinops, Brocade, FS, Ceragon, Mikrotik.<br>
 
 ## 👨🏻‍🎓 Education
 
