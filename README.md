@@ -74,6 +74,5 @@ Cohost of the magazine & impro show Ona Jove. [Check it out](https://radiovoltre
 
 ## 🚘 Others
 
-**Drivers license**: B <br>
-**Own car**
+**Drivers license**: B
 <br><br>
