@@ -12,15 +12,15 @@ _Computer engineer based in Barcelona, Spain_ <br>
   - Development of automation scripts and the design of new tools. 
   - Deployment of new PoP's and services:
     - Migration to a DWDM based transmission across the network.
-    - M&A integration of new adquired networks.
+    - M&A integration of newly acquired networks.
   - Sysadmin: Linux administration
   - **_Languages used:_** Python, Javascript, C++, PHP, HTML, SQL.
   - **_Technologies used:_** GPON, DWDM, Jinja, Git, Docker.
 
 **Network Operation Center (NOC) Technician** @ [Adamo Telecom](https://adamo.es) _(Jun 2019 - Jun 2021)_ <br>
 
-  - Resolving core network incidents according to the agreeded SLA's.
-  - Helping field techicians to troubleshoot core equipment (SFP's, cabling)
+  - Resolving core network incidents according to the agreed SLA.
+  - Helping field technicians to troubleshoot core equipment (SFP's, cabling)
   - Handling issue tickets from our enterprise customers.
   - **_Protocols used:_** OSPF, MPLS, BGP, DHCP, DNS, SIP, RTP.
   - **_Devices used:_** Huawei, Nokia, ZTE, Fiberhome, Ekinops, Brocade, FS, Ceragon, Mikrotik.
@@ -41,15 +41,15 @@ A graduate specialist in Information Technology (IT) knows the necessary technol
 ## 📌 Projects 
 
 **TFG | Implementació de QoS en un ISP** @ [UPC & Adamo Telecom](https://upcommons.upc.edu/handle/2117/344879) _(Sep 2020 - Jan 2021)_ <br>
-The result of this project is an implementation of quality of service policies able to classify the different residential data flows in queues of multiple priorities. Enabling, this way, to assure its transmission along all the critical path. 
+The result of this project is an implementation of quality of service policies able to classify the different residential data flows in queues of multiple priorities. Enabling, this way, to assure its transmission along all the critical paths. 
 <br><br>
 
 **Zabbix Monitoring Implementation** @ [Adamo Telecom](https://www.redi-school.org/) _(Feb 2017 - Aug 2021)_<br>
-Design and migration to a SNMP powered monitoring system for Adamo Telecom's network. This involved the creation of:
+Design and migration to an SNMP powered monitoring system for Adamo Telecom's network. This involved the creation of:
   - Items to monitor (autodiscovery)
   - Alarm triggers
   - Trigger dependencies
-  - Templates for each kind of network and power devices.
+  - Templates for each kind of network and power device.
 <br><br>
 
 **DWDM Implementation** @ [Adamo Telecom](https://www.redi-school.org/) _(Feb 2017 - Present)_<br>
@@ -60,10 +60,10 @@ Migration to a DWDM based transmission across the network.
 
 **Sysadmin and radio speaker** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2010 - Present)_ <br>
 - Systems and broadcast engineer: 
-  - Mantaining servers
-  - Mantaining network
+  - Maintaining network
+  - Servers administration
   - RF devices 
-  - Cabling and solering
+  - Cabling and soldering
 - Python automation: Automated contribution system for remote users (schedule automation, file upload...).
 <br><br>
 
