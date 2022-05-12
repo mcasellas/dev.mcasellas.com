@@ -8,7 +8,8 @@ _Computer engineer based in Vic, Barcelona (Spain)_ <br>
 
 **Network Delivery Engineer** @ [Adamo Telecom](https://adamo.es) _(Jun 2021 - Present)_ <br>
 Performing network topology changes while contributing to network design.
-  - Development of automation scripts and the design of new tools. 
+  - Development of automation scripts and the design of new tools.
+  - Performing complex network changes.
   - Migration to a DWDM based transmission across the network.
   - M&A integration of newly acquired networks.
   - Deployment of new PoP's and services.
