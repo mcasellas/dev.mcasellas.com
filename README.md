@@ -1,12 +1,20 @@
 # Marc Casellas
 
-_Computer engineer based in Vic, Barcelona (Spain)_ <br>
+_Computer engineer based in Vic, Barcelona (Catalonia)_ <br>
 
 [Email](mailto:marccasellasmuns@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mcasellas98/) / [GitHub](https://github.com/mcasellas/)
 
 ## 👨🏻‍💻 Engineering Experience
 
-**Network Delivery Engineer** @ [Adamo Telecom](https://adamo.es) _(Jun 2021 - Present)_ <br>
+**Network Engineer** @ [Goufone](https://goufone.com) _(Aug 2022 - Present)_ <br>
+Network design.
+  - Definition of new standards.
+  - Network topology design.
+  - Routing design.
+  - GPON Troubleshooting.
+  - XGSPON homologation.
+
+**Network Delivery Engineer** @ [Adamo Telecom](https://adamo.es) _(Jun 2021 - Aug 2022)_ <br>
 Performing network topology changes while contributing to network design.
   - Development of automation scripts and the design of new tools.
   - Performing complex network changes.
