@@ -6,7 +6,9 @@ _Computer engineer based in Vic, Barcelona (Catalonia)_ <br>
 
 ## 👨🏻‍💻 Engineering Experience
 
-**Network Engineer** @ [Goufone](https://goufone.com) _(Aug 2022 - Present)_ <br>
+**Network Automation Engineer** @ [Adamo Telecom](https://adamo.es) _(Dec 2022 - Present)_ <br>
+    
+**Network Engineer** @ [Vera](https://somvera.cat) _(Aug 2022 - Dec 2022)_ <br>
 Network design.
   - Definition of new standards.
   - Network topology design.
