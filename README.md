@@ -7,9 +7,13 @@ _Computer engineer based in Vic, Barcelona (Catalonia)_ <br>
 ## 👨🏻‍💻 Engineering Experience
 
 **Network Automation Engineer** @ [Adamo Telecom](https://adamo.es) _(Dec 2022 - Present)_ <br>
+This position involves designing, developing, and maintaining automation solutions to streamline network operations and improve efficiency, scalability and reliability. My role involves collaborating with cross-functional teams, including network engineers, software developers, and operations teams, to identify areas for automation and develop solutions that enhance the overall network infrastructure.
+
+Overall, my experience as a Network Automation Engineer at Adamo has allowed me to leverage my expertise in automation, network engineering, and infrastructure to drive innovation and operational excellence.
+
     
 **Network Engineer** @ [Vera](https://somvera.cat) _(Aug 2022 - Dec 2022)_ <br>
-Network design.
+As a Network Engineer at Goufone I contributed to network design and architecture, subnetting and homogenization of monitoring tools. I worked collaboratively with cross-functional teams to ensure network solutions met the needs of the organization.
   - Definition of new standards.
   - Network topology design.
   - Routing design.
