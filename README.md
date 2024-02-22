@@ -2,7 +2,7 @@
 
 _Computer engineer based in Vic, Barcelona (Catalonia)_ <br>
 
-[Email](mailto:marccasellasmuns@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mcasellas98/) / [GitHub](https://github.com/mcasellas/)
+[Email](mailto:marccasellasmuns@gmail.com) / [LinkedIn](https://www.linkedin.com/in/casellas98/) / [GitHub](https://github.com/mcasellas/)
 
 ## 👨🏻‍💻 Engineering Experience
 
