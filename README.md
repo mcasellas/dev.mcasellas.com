@@ -84,7 +84,7 @@ Systems and broadcast engineer.
   - Automation: Development of an automatic and distributed contribution system for remote users (schedule automation, file upload...).
 
 **Radio Speaker** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2010 - Present)_ <br>
-Cohost of the magazine & impro show Ona Jove. [Check it out](https://radiovoltrega.com/programes#Dimarts). <br>
+Cohost of the magazine & impro show [Endramaliats](https://radiovoltrega.com/endramaliats). <br>
 <br><br>
 
 ## 🚘 Others
