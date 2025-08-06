@@ -77,11 +77,11 @@ Design and migration to an SNMP powered monitoring system for Adamo Telecom's ne
 
 **Sysadmin** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2012 - Present)_ <br>
 Systems and broadcast engineer.
-  - Network manteinance.
-  - Servers administration.
-  - RF devices.
-  - Cabling and soldering.
   - Automation: Development of an automatic and distributed contribution system for remote users (schedule automation, file upload...).
+  - System architecture and administration: audio and video distribution, server administration, playout automation.
+  - Network administration.
+  - RF maintenance.
+  - Cabling and soldering.
 
 **Radio Speaker** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2010 - Present)_ <br>
 Cohost of the magazine & impro show [Endramaliats](https://radiovoltrega.com/endramaliats). <br>
