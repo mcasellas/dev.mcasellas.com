@@ -36,10 +36,11 @@ Resolving core network incidents and providing enterprise and level 3 customer s
   - Handling issue tickets from our enterprise customers.
 
 > ### Tech experience
-> **_Protocols:_** OSPF, MPLS, BGP, DHCP, DNS, SIP, RTP.<br>
-> **_Technologies:_** GPON, DWDM, Jinja, Git, Docker.<br>
 > **_Languages:_** Python, Javascript, C++, PHP, HTML, SQL.<br>
-> **_Devices:_** Huawei, Nokia, ZTE, Fiberhome, Ekinops, Brocade, FS, Ceragon, Mikrotik.
+> **_Protocols:_** OSPF, MPLS, BGP, DHCP, DNS, SIP, RTP.<br>
+> **_Technologies:_** GPON, DWDM, Git, Docker.<br>
+> **_Others:_** HTML, SQL, Flask, Jinja.<br>
+> **_Network manufacturers:_** Huawei, Nokia, ZTE, H3C, Fiberhome, Ekinops, Brocade, FS, Ceragon, Mikrotik.
 
 <br>
 
@@ -77,11 +78,11 @@ Design and migration to an SNMP powered monitoring system for Adamo Telecom's ne
 
 **Sysadmin** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2012 - Present)_ <br>
 Systems and broadcast engineer.
-  - Automation: Development of an automatic and distributed contribution system for remote users (schedule automation, file upload...).
-  - System architecture and administration: audio and video distribution, server administration, playout automation.
-  - Network administration.
-  - RF maintenance.
+  - Network manteinance.
+  - Servers administration.
+  - RF devices.
   - Cabling and soldering.
+  - Automation: Development of an automatic and distributed contribution system for remote users (schedule automation, file upload...).
 
 **Radio Speaker** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2010 - Present)_ <br>
 Cohost of the magazine & impro show [Endramaliats](https://radiovoltrega.com/endramaliats). <br>
