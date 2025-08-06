@@ -85,6 +85,9 @@ Systems and broadcast engineer.
 
 **Radio Speaker** @ [Ràdio Voltregà](https://radiovoltrega.com) _(Oct 2010 - Present)_ <br>
 Cohost of the magazine & impro show [Endramaliats](https://radiovoltrega.com/endramaliats). <br>
+
+**Photographer** @ [Associació fotogràfica del Voltreganès](https://afvoltreganes.cat) _(Jun 2022 - Present)_ <br>
+See my work in my [portfolio](https://mcasellas.com). <br>
 <br><br>
 
 ## 🚘 Others
