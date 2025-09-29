@@ -8,21 +8,37 @@ _Computer engineer based in Vic, Barcelona (Catalonia)_ <br>
 
 **Network Automation Engineer** @ [Adamo Telecom](https://adamo.es) _(Dec 2022 - Present)_ <br>
 This position involves designing, developing, and maintaining automation solutions to streamline network operations and improve efficiency, scalability and reliability. My role involves collaborating with cross-functional teams, including network engineers, software developers, and operations teams, to identify areas for automation and develop solutions that enhance the overall network infrastructure.
+  
+  - Development of automation scripts and the design of new tools:
+    - Batch configuration changes across network equipment.
+    - User friendly GUI (intranet) to simplify and secure network operations for multiple teams.
+    - Containerization.
+  - Critical linux server administration, covering:
+    - Zabbix monitoring (system architecture and template design).
+    - ACS (administration and template design).
+    - RADIUS (administration and template design).
+    - DHCP server (HA)
+    - DNS server
+    - IP Address Management (IPAM).
+  - Firewall deployment and administration to secure network infrastructure.
+  - Google Cloud Platform (GCP) architecture and administration.
+  - CPE homologation and testing to validate new equipment before production rollout.
+  - Improve high availability (HA) architecture of critical services.
 
-Overall, my experience as a Network Automation Engineer at Adamo has allowed me to leverage my expertise in automation, network engineering, and infrastructure to drive innovation and operational excellence.
-
+  Overall, my experience as a Network Automation Engineer at Adamo has allowed me to leverage my expertise in automation, network engineering, and infrastructure to drive innovation and operational excellence.
     
 **Network Engineer** @ [Vera](https://somvera.cat) _(Aug 2022 - Dec 2022)_ <br>
 As a Network Engineer at Goufone I contributed to network design and architecture, subnetting and homogenization of monitoring tools. I worked collaboratively with cross-functional teams to ensure network solutions met the needs of the organization.
+
   - Definition of new standards.
   - Network topology design.
   - Routing design.
-  - GPON Troubleshooting.
+  - GPON troubleshooting.
   - XGSPON homologation.
 
 **Network Delivery Engineer** @ [Adamo Telecom](https://adamo.es) _(Jun 2021 - Aug 2022)_ <br>
 Performing network topology changes while contributing to network design.
-  - Development of automation scripts and the design of new tools.
+
   - Performing complex network changes.
   - Migration to a DWDM based transmission across the network.
   - M&A integration of newly acquired networks.
@@ -30,19 +46,29 @@ Performing network topology changes while contributing to network design.
   - Monitoring and linux administration.
 
 **NOC Technician** @ [Adamo Telecom](https://adamo.es) _(Jun 2019 - Jun 2021)_ <br>
-Resolving core network incidents and providing enterprise and level 3 customer support at Adamo's Network Operation Center (NOC).
+Resolving CORE network incidents and providing enterprise and level 3 customer support at Adamo's Network Operation Center (NOC).
+
+  - Monitoring and troubleshot core network infrastructure to ensure high availability and performance.
   - Managing incidents to mantain the agreed SLA's.
-  - Guiding field technicians to troubleshoot and find the root cause of issues in core equipment (SFP's, cabling).
-  - Handling issue tickets from our enterprise customers.
+  - Guiding field technicians to identify and resolve root causes of failures in core equipment.
+  - Handling issue tickets from enterprise customers, ensuring timely resolution and clear communication (FiberOffice, EVPN, IP-Transit...).
+  - Utilized monitoring tools (e.g., Zabbix, Nagios) to proactively detect and mitigate service disruptions.
 
 > ### Tech experience
-> **_Languages:_** Python, Javascript, C++, PHP, HTML, SQL.<br>
-> **_Protocols:_** OSPF, MPLS, BGP, DHCP, DNS, SIP, RTP.<br>
-> **_Technologies:_** GPON, DWDM, Git, Docker.<br>
-> **_Others:_** HTML, SQL, Flask, Jinja.<br>
-> **_Network manufacturers:_** Huawei, Nokia, ZTE, H3C, Fiberhome, Ekinops, Brocade, FS, Ceragon, Mikrotik.
+> #### Development
+> **_Languages:_** Python, Javascript, C++, PHP, SQL.<br>
+> **_Web & Frameworks:_** HTML, Flask, Jinja, Fast API.<br>
+> **_DevOps:_** Git, Docker.<br>
+> #### Networks
+> **_Protocols:_** TCP/IP, UDP/IP, OSPF, MPLS, BGP, DHCP, DNS, SIP, RTP.<br>
+> **_Network manufacturers:_** Huawei, Nokia, ZTE, H3C, Fiberhome, Ekinops, PaloAlto, Brocade, FS, Ceragon, Mikrotik.<br>
+> **_Network Technologies:_** GPON, DWDM.<br>
+> #### Server experience
+> **_OS:_** Ubuntu, Debian, CentOS, Windows Server.<br>
+> **_Server manufacturers:_** HP, DELL, Supermicro.<br>
+> **_Hypervisors (VM):_** Google Cloud Platform (GCP), Proxmox, VMware.
 
-<br>
+<br><br>
 
 ## 👨🏻‍🎓 Education
 
@@ -67,10 +93,10 @@ The result of this project is an implementation of quality of service policies a
 
 ## 📌 Projects 
 
-**DWDM Implementation** @ [Adamo Telecom](https://www.redi-school.org/) _(Jun 2021 - Present)_<br>
+**DWDM Implementation** @ [Adamo Telecom](https://adamo.es/) _(Jun 2021 - Present)_<br>
 Migration to a DWDM based transmission across the network to increase capacity and redundancy.
 
-**Zabbix Implementation** @ [Adamo Telecom](https://www.redi-school.org/) _(Aug 2020 - Apr 2021)_<br>
+**Zabbix Implementation** @ [Adamo Telecom](https:/adamo.es/) _(Aug 2020 - Apr 2021)_<br>
 Design and migration to an SNMP powered monitoring system for Adamo Telecom's network. This involved the creation of items to monitor (autodiscovery), alarm triggers and dependencies and the corresponding templates for each kind of network and power device.
 <br><br>
   
