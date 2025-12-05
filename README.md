@@ -1,6 +1,4 @@
-# Marc Casellas
-
-_Computer engineer based in Osona, Barcelona (Catalonia)_ <br>
+_Computer engineer based in Osona, Barcelona (Catalonia)_. <br>
 
 [LinkedIn](https://www.linkedin.com/in/casellas98/) / [GitHub](https://github.com/mcasellas/)
 
