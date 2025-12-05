@@ -1,6 +1,4 @@
 
-# Hola!
-
 _Computer Engineer specialized in Automation and Data Processes. Experienced in Python development, cloud architectures, automation of complex workflows, and deployment of scalable systems. <br> Based in Osona, Barcelona (Catalonia)_. <br>
 
 [LinkedIn](https://www.linkedin.com/in/casellas98/) / [GitHub](https://github.com/mcasellas/)
@@ -80,11 +78,13 @@ Resolving CORE network incidents and providing enterprise and level 3 customer s
 ## 👨🏻‍🎓 Education
 
 **Degree in Computer Engineering** · Mention in IT<br>
-[Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu) _(Sep 2016 - Jan 2021)_ <br>
+[Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu) _(Sep 2016 - Jan 2021)_ <br><br>
 A graduate specialist in Information Technology (IT) knows the necessary technologies, both hardware and software, to store, retrieve, transmit and manipulate data. This means that an IT specialist has a good technical and practical knowledge in managing the technological infrastructure which treats the information and the development of systems. An engineer of IT specializes in integrating information technologies rather than the information itself and has knowledge of hardware, operating systems, programming languages, communication protocols, distributed systems and architectures of systems.
 
+<br>
+
 > **Bachelor’s Thesis (TFG)** · [QoS implementation in an ISP](https://upcommons.upc.edu/handle/2117/344879)<br> 
-> Universitat Politècnica de Catalunya (UPC) & Adamo Telecom _(Fall 2020)_ <br>
+> Universitat Politècnica de Catalunya (UPC) & Adamo Telecom _(Fall 2020)_ <br><br>
 > The result of this project is an implementation of quality of service policies able to classify the different residential data flows in queues of multiple priorities. Enabling, this way, to assure its transmission along all the critical paths. 
 
 <br><br>
