@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: Marc Casellas
 tagline: Network Automation Engineer
 description: Marc Casellas's CV
+github:
+  is_project_page: false
