@@ -1,3 +1,6 @@
+---
+title: "Marc Casellas | Computer Engineer · NetDevOps"
+---
 
 ### 🚀 About Me
 Computer Engineer (UPC) specialized in **infrastructure monitoring, automation**, and the deployment of critical services (**NetDevOps**). Strong background in **Python** and **Cloud environments (GCP/Docker)**. Passionate about observability, operational efficiency, and network security. 
@@ -43,8 +46,6 @@ Based in Osona, Barcelona (Catalonia).
 | **Cloud & Systems** | Google Cloud (GCP), BigQuery, Proxmox, VMware |
 | **Networking** | OSPF, BGP, DHCP, DNS, SIP, GPON, DWDM |
 | **Vendors** | Huawei, Cisco, PaloAlto, Nokia, ZTE, FiberHome, Mikrotik |
-
----
 
 ### 🎓 Education
 **B.S. in Computer Engineering** | [Universitat Politècnica de Catalunya (UPC)](https://www.upc.edu)
