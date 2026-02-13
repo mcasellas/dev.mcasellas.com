@@ -1,16 +1,8 @@
-# Marc Casellas
-### Computer Engineer · NetDevOps
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/casellas98/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://github.com/mcasellas/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://mcasellas.com"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge" alt="Portfolio"></a>
-</p>
-
----
 
 ### 🚀 About Me
-Computer Engineer (UPC) specialized in **infrastructure monitoring, automation**, and the deployment of critical services (**NetDevOps**). Strong background in **Python** and **Cloud environments (GCP/Docker)**. Passionate about observability, operational efficiency, and network security.
+Computer Engineer (UPC) specialized in **infrastructure monitoring, automation**, and the deployment of critical services (**NetDevOps**). Strong background in **Python** and **Cloud environments (GCP/Docker)**. Passionate about observability, operational efficiency, and network security. 
+
+Based in Osona, Barcelona (Catalonia).
 
 ---
 
